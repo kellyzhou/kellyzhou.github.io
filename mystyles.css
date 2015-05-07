@@ -6,6 +6,16 @@ a:hover{
 	text-decoration:none;
 }
 
+h2{
+	font-size:22px;
+}
+
+img{
+	max-width:100%;
+	/*height:auto 100px;*/
+	/*max-height:80%;*/
+}
+
 .top h1{
 	text-align:center;
 }
