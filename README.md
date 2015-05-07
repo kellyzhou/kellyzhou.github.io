@@ -1,2 +1,2 @@
 # kellyzhou.github.io
-Home page
+Home page/portfolio for Kelly Zhou, web developer and multimedia journalist 
